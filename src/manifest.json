@@ -1,0 +1,26 @@
+{
+
+  "manifest_version": 2,
+  "name": "Nagasaki Univercity wifi auto login",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["autologin.js"]
+    }
+  ],
+
+  "options_ui": {
+    "page": "options.html"
+  },
+
+    "permissions": ["storage"],
+
+
+    "icons": {
+	"48": "icon48.png",
+	"96": "icon96.png"
+    }
+    
+}
