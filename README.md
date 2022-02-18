@@ -19,6 +19,11 @@
 |[src](./src)|ソースコード|
 ## 導入手順
 ---
+
+<details>
+<summary><em>クリックで展開</em></summary>
+<div>
+   
 1. アドレスバーに `about:addons` を入力
 
 ![input](./pic/step1.png)
@@ -40,6 +45,9 @@
    3. `ID` と `PASSWORD` の欄に入力して `save` をクリック
 
    ![input](./pic/step5.png)
+
+</div>
+</details>
 
 ## 参考文献
 ---
