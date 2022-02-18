@@ -10,10 +10,10 @@
 - windows10
 - Firefox 97
 ## ファイル一覧
-
+[latest_ver_xpi]: ./nagasaki_univercity_wifi_auto_login-1.1-fx.xpi
 |ファイル|説明|
 |:--:|:--:|
-|[nagasaki_univercity_wifi_auto_login ver1](./nagasaki_univercity_wifi_auto_login-1.0-fx.xpi)|Firefox アドオン|
+|[nagasaki_univercity_wifi_auto_login][latest_ver_xpi]|Firefox アドオン|
 |[src](./src)|ソースコード|
 ## 導入手順
 ---
@@ -21,7 +21,7 @@
 
 ![input](./pic/step1.png)
 
-2. 歯車マーク -> ファイルからアドオンをインストール -> `xpi` ファイル ([nagasaki_univercity_wifi_auto_login ver1](./nagasaki_univercity_wifi_auto_login-1.0-fx.xpi)) を開く -> 権限の許可を聞かれるので追加をクリック
+2. 歯車マーク -> ファイルからアドオンをインストール -> `xpi` ファイル ([nagasaki_univercity_wifi_auto_login][latest_ver_xpi]) を開く -> 権限の許可を聞かれるので追加をクリック
 
 ![input](./pic/step2.png)
 
