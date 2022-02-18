@@ -47,3 +47,4 @@
 
 - Firefoxアドオン署名・配布
   - [森林開発24時 Firefoxのアドオン開発について(配布編)](https://forest-soft.xyz/blog/detail?id=18)
+  - [アドオン開発者センター](https://addons.mozilla.org/ja/developers/)
