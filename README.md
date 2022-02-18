@@ -10,7 +10,9 @@
 - windows10
 - Firefox 97
 ## ファイル一覧
-[latest_ver_xpi]: ./nagasaki_univercity_wifi_auto_login-1.1-fx.xpi
+
+[latest_ver_xpi]:./nagasaki_univercity_wifi_auto_login-1.1-fx.xpi
+
 |ファイル|説明|
 |:--:|:--:|
 |[nagasaki_univercity_wifi_auto_login][latest_ver_xpi]|Firefox アドオン|
